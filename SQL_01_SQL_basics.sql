@@ -1,4 +1,6 @@
 ﻿-- SQL BASICS --
+--SELECT, JOIN, GROUP BY, CASE
+
 
 -- EX01
 /* Using the Products and Categories tables, display the product name (Products.ProductName) and the name of the category
